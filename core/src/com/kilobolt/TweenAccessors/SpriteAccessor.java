@@ -1,5 +1,5 @@
 package com.kilobolt.TweenAccessors;
-//sss
+
 import aurelienribon.tweenengine.TweenAccessor;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 
