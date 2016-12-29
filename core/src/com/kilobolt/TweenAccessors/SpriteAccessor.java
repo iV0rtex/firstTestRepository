@@ -2,7 +2,7 @@ package com.kilobolt.TweenAccessors;
 
 import aurelienribon.tweenengine.TweenAccessor;
 import com.badlogic.gdx.graphics.g2d.Sprite;
-//vortex
+
 public class SpriteAccessor implements TweenAccessor<Sprite> {
     public static final int ALPHA = 1;
 
